@@ -1,40 +1,49 @@
 # Case Study for Gentle Care
 Dental Clinic Online Management System Project 
 
-### Built with
+## Built with
 - HTML5
 - CSS3 (Bootstrap/Tailwind CSS)
 - Javascript/jQuery
 - PHP
 - Laravel
-- mySQL
+- mySQL (for database management)
+- Figma/Adobe Illustrator (for prototyping and media elements)
 
-### Design Files
-#### Main Page web/mobile view - link
-#### Login Page web/mobile view - link
-#### Admin Dashboard web/mobile view - link
-#### Doctor Dashboard web/mobile view - link
-#### Patient/User Dashboard web/mobile view - link
+## Design Files
+- Main Page web/mobile view - link
+- Login Page web/mobile view - link
+- Admin Dashboard web/mobile view - link
+- Doctor Dashboard web/mobile view - link
+- Patient/User Dashboard web/mobile view - link
 
-### Main Website
+## Main Website
 ### Sections
-* Landing Page
-  * Announcement
-  * Featured News
-  * Latest News
-  * FAQ
-  * Footer
-  * Social Media Links 
+* Hero 
 * About
-  * History
-  * Mission 
-  * Vision
-  * Core Values
-* Admissions (inactive/dead link)
-* Academics
+* Features
+* How it works
+* FAQ
+* Contact
+* Login 
+* Footer
+
+## Login/Registration 
+* Login
+* Registration
+
+## Dashboard
+* Admin
   * Program Offerings
   * Scholarships
-* Faculty and Staff (inactive/dead link)
-* Offices and Resources (inactive/dead link)
-* Alumni Center (inactive/dead link)
-* Log in Page
+* Doctor
+  * Program Offerings
+  * Scholarships
+* Patient
+  * Program Offerings
+  * Scholarships
+
+----------------------------------
+#### Date Created: September 2021
+#### Created by: MG Baybay
+#### Credits:
