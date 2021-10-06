@@ -2,7 +2,7 @@
 Dental Clinic Online Management System 
 
 ## Introductory Video
-![Video Introduction](https://www.youtube.com/watch?v=jL5B8S_N3bg)
+[![Video Introduction](https://github.com/mgbaybay/gentle_care/blob/main/Video%20Thumbnail.jpg)](https://www.youtube.com/watch?v=jL5B8S_N3bg)
 
 ## Main Website
 ![Main Page](https://github.com/mgbaybay/gentle_care/blob/main/Main%20Page.png)
@@ -56,7 +56,12 @@ Dental Clinic Online Management System
   * Settings
   * Search
 * Doctor
-  * Home (statistics, appointment details, general details, appointment requests, messages/call notifications)
+  * Home 
+    * Statistics
+    * Appointment Details
+    * General Details
+    * Appointment Requests
+    * Messages/Call Notifications
   * Appointments
   * Patient List
   * Messages
