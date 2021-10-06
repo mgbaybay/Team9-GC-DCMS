@@ -2,9 +2,11 @@
 Dental Clinic Online Management System 
 
 ## Introductory Video
+Click to play the video
 [![Video Introduction](https://github.com/mgbaybay/gentle_care/blob/main/Video%20Thumbnail.jpg)](https://www.youtube.com/watch?v=jL5B8S_N3bg)
 
 ## Main Website
+This is the main website
 ![Main Page](https://github.com/mgbaybay/gentle_care/blob/main/Main%20Page.png)
 
 ## Built with
