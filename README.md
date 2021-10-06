@@ -22,10 +22,10 @@ This is the main website
 ## Design Files
 Some modules were incomplete due to limited time constraint. These are UIX mockups, final output might differ
 - Main Page web view - (See attached photo)
-- Login Page web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=196%3A190&node-id=196%3A191&viewport=241%2C48%2C1&scaling=contain)
-- Admin Dashboard web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=23%3A441&node-id=73%3A185&viewport=241%2C48%2C0.72&scaling=min-zoom)
-- Doctor Dashboard web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=78%3A371&node-id=192%3A202&viewport=241%2C48%2C0.75&scaling=contain&starting-point-node-id=192%3A202)
-- Patient/User Dashboard web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=23%3A440&node-id=89%3A171&viewport=241%2C48%2C0.67&scaling=min-zoom&starting-point-node-id=89%3A171)
+- Login Page web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=196%3A190&node-id=196%3A191&viewport=241%2C48%2C1.26&scaling=min-zoom)
+- Admin Dashboard web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=23%3A441&node-id=204%3A1372&viewport=241%2C48%2C0.72&scaling=contain&starting-point-node-id=204%3A1372)
+- Doctor Dashboard web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=78%3A371&node-id=78%3A372&viewport=241%2C48%2C0.23&scaling=contain&starting-point-node-id=78%3A372)
+- Patient/User Dashboard web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=23%3A440&node-id=89%3A171&viewport=241%2C48%2C0.36&scaling=contain&starting-point-node-id=89%3A171)
 
 ## Main Website
 ### Sections
