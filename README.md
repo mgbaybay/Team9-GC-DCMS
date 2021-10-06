@@ -20,11 +20,12 @@ This is the main website
 ![Adobe Multimedia](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 ## Design Files
-- Main Page web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=6%3A93&node-id=62%3A106&viewport=241%2C48%2C0.38&scaling=min-zoom&starting-point-node-id=62%3A106)
-- Login Page web/mobile view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=196%3A190&node-id=196%3A191&viewport=241%2C48%2C1&scaling=contain)
-- Admin Dashboard web/mobile view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=23%3A441&node-id=73%3A185&viewport=241%2C48%2C0.72&scaling=min-zoom)
-- Doctor Dashboard web/mobile view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=78%3A371&node-id=192%3A202&viewport=241%2C48%2C0.75&scaling=contain&starting-point-node-id=192%3A202)
-- Patient/User Dashboard web/mobile view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=23%3A440&node-id=89%3A171&viewport=241%2C48%2C0.67&scaling=min-zoom&starting-point-node-id=89%3A171)
+Some modules were incomplete due to limited time constraint. These are UIX mockups, final output might differ
+- Main Page web view - (See attached photo)
+- Login Page web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=196%3A190&node-id=196%3A191&viewport=241%2C48%2C1&scaling=contain)
+- Admin Dashboard web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=23%3A441&node-id=73%3A185&viewport=241%2C48%2C0.72&scaling=min-zoom)
+- Doctor Dashboard web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=78%3A371&node-id=192%3A202&viewport=241%2C48%2C0.75&scaling=contain&starting-point-node-id=192%3A202)
+- Patient/User Dashboard web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=23%3A440&node-id=89%3A171&viewport=241%2C48%2C0.67&scaling=min-zoom&starting-point-node-id=89%3A171)
 
 ## Main Website
 ### Sections
