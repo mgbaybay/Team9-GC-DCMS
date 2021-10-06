@@ -10,7 +10,7 @@ This is the main website
 ![Main Page](https://github.com/mgbaybay/gentle_care/blob/main/Main%20Page.png)
 
 ## Built with
-![HTML5(
+![HTML5](
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 - HTML5
