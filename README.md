@@ -79,5 +79,5 @@ This is the main website
   
 ----------------------------------
 #### Date Created: September 2021
-#### Created by: 
+#### Created by: MG Baybay, Ralph Pabua, Jedd Dasmarinas
 #### Credits:
