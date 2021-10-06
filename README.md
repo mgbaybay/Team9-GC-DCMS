@@ -10,16 +10,14 @@ This is the main website
 ![Main Page](https://github.com/mgbaybay/gentle_care/blob/main/Main%20Page.png)
 
 ## Built with
-![HTML5](
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-- HTML5
-- CSS3 (Bootstrap/Tailwind CSS)
-- Javascript/jQuery
-- PHP
-- Laravel
-- mySQL (for database management)
-- Figma/Adobe Illustrator (for prototyping and media elements)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![mySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Multimedia](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 
 ## Design Files
 - Main Page web view - [link](https://www.figma.com/proto/WtZo94pGWrZeDMthuSPDVs/Project-Proposal?page-id=6%3A93&node-id=62%3A106&viewport=241%2C48%2C0.38&scaling=min-zoom&starting-point-node-id=62%3A106)
