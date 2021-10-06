@@ -1,7 +1,10 @@
 # Case Study for Gentle Care
 Dental Clinic Online Management System 
-Video Introduction - [link](https://www.youtube.com/watch?v=jL5B8S_N3bg)
 
+## Introductory Video
+![Video Introduction](https://www.youtube.com/watch?v=jL5B8S_N3bg)
+
+## Main Website
 ![Main Page](https://github.com/mgbaybay/gentle_care/blob/main/Main%20Page.png)
 
 ## Built with
