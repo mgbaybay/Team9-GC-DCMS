@@ -81,5 +81,5 @@ Some modules were incomplete due to limited time constraint. These are UIX mocku
   
 ----------------------------------
 #### Date Created: September 2021
-#### Created by: MG Baybay
+#### MG Baybay, Ralph Pabua, Jedd Dasmarinas
 #### Credits:
