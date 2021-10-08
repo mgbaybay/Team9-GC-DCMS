@@ -3,11 +3,11 @@ Dental Clinic Online Management System. This is a website created as part of the
 
 ### Introductory Video
 Click to play the video
-[![Video Introduction](https://github.com/mgbaybay/gentle_care/blob/main/Video%20Thumbnail.jpg)](https://www.youtube.com/watch?v=jL5B8S_N3bg)
+[![Video Introduction](https://github.com/mgbaybay/Team9-GC-DCMS/blob/main/assets/img/Video%20Thumbnail.jpg)](https://www.youtube.com/watch?v=jL5B8S_N3bg)
 
 ### Main Website
 This is the main website
-![Main Page](https://github.com/mgbaybay/gentle_care/blob/main/Main%20Page.png)
+![Main Page](https://github.com/mgbaybay/Team9-GC-DCMS/blob/main/assets/img/Main%20Page.png)
 
 ## Built with
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
