@@ -1,5 +1,5 @@
 # Case Study for Gentle Care
-Dental Clinic Online Management System. This is a website created as part of the final capstone requirement/s of Kodegeo Bootcamp 
+Dental Clinic Online Management System. This is a website created as part of the final capstone requirement/s of Kodego Bootcamp 
 
 ### Introductory Video
 Click to play the video
